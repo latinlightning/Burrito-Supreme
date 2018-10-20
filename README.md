@@ -12,11 +12,13 @@ Goals (First)
  
 Ideal Sequence of Events
 1. User opens application
-2. Their server is established
-3. Another User can connect their server and send a message to the other user
-4. Connected servers will retain a copy of the communication so that each user can retrieve a chain of messages
+2. Their server is established on each users computer.
+3. Each user can post data to their server which would, then be seen by other users and then be seen on their server.
+4. The user can join another person's server and post messeages and interact there with the person there
+
 5. User closes application
-  
+
+The big gay
   
   
   
