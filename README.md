@@ -15,6 +15,7 @@ Ideal Sequence of Events
 2. Their server is established on each users computer.
 3. Each user can post data to their server which would, then be seen by other users and then be seen on their server.
 4. The user can join another person's server and post messeages and interact there with the person there
+
 5. User closes application
 
 The big gay
